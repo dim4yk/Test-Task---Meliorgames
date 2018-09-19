@@ -77,7 +77,6 @@
     <Compile Include="Assets\Scripts\GameHelpers\Pool\PoolManager\PoolManager.cs" />
     <Compile Include="Assets\Scripts\GameHelpers\Pool\PoolManager\PoolManagerCache.cs" />
     <Compile Include="Assets\Scripts\GameHelpers\ScenesManager.cs" />
-    <Compile Include="Assets\Scripts\GameHelpers\ScenesMenu.cs" />
     <Compile Include="Assets\Scripts\GameHelpers\TweenController\TweenController.cs" />
     <Compile Include="Assets\Scripts\GameHelpers\UIManager\UIManager.cs" />
     <Compile Include="Assets\Scripts\Main Game\AnimatorController.cs" />
